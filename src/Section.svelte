@@ -64,7 +64,9 @@
       </dl>
     </div>
   </div>
+  <button id="btndemarrer" class="btn carretelegram lg:px-8">Démarrer</button>
 </div>
+
 <style>
 svg{
   color: #FFFFFF
@@ -74,5 +76,10 @@ svg{
 }
 #h2telegram{
   color: #0088CC
+}
+#btndemarrer{
+  margin-left: auto;
+  
+
 }
 </style>
